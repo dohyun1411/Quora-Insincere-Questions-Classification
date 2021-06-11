@@ -25,9 +25,13 @@ Meetup page: https://www.meetup.com/ko-KR/LearnDataScience/events/fbczqqyzfbkb
 16. CNN
 17. MLP
 18. k-NN
+
 ~~19. Naive Bayes~~
+
 20. SVM
+
 ~~21. Decision Tree~~
+
 22. Logistic Regression
 
 ## What we tried but did not work
