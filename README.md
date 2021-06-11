@@ -7,7 +7,7 @@ Meetup page: https://www.meetup.com/ko-KR/LearnDataScience/events/fbczqqyzfbkb
 
 
 ### What we have not tried
-* Attempts to handle class imblance, such as upsampling, downspampling
+* Attempts to handle class imblance such as upsampling, downspampling
 * Ensemble
 * Embedding concatenation
 * Embedding averaging
@@ -15,10 +15,10 @@ Meetup page: https://www.meetup.com/ko-KR/LearnDataScience/events/fbczqqyzfbkb
 * Tokenizer: NLTK
 * Tokenizer: Keras
 * Tokenizer: split (python built-in function)
-* Spelling Correction
+* Spelling correction
 * Acronym dictionaries
 * Truncating questions
-* Cross Validation
+* Cross validation
 * RNN
 * LSTM
 * GRU
@@ -27,10 +27,10 @@ Meetup page: https://www.meetup.com/ko-KR/LearnDataScience/events/fbczqqyzfbkb
 * MLP
 * k-NN
 * SVM
-* Logistic Regression
+* Logistic regression
 
 ### What we tried but did not work
-* Naive Bayes (see very_simple_classifiers.ipynb)
-* Decision Tree (see very_simple_classifiers.ipynb)
+* Naive Bayes (see very_simple_classifiers.ipynb): f1-score = 0.2177
+* Decision Tree (see very_simple_classifiers.ipynb): f1-score = 0.1570
 
 ### What we tried and work
