@@ -14,6 +14,7 @@ Meetup page: https://www.meetup.com/ko-KR/LearnDataScience/events/fbczqqyzfbkb
 * Tokenizer: spaCy
 * Tokenizer: NLTK
 * Tokenizer: Keras
+* Tokenizer: split (python built-in function)
 * Spelling Correction
 * Acronym dictionaries
 * Truncating questions
@@ -29,7 +30,7 @@ Meetup page: https://www.meetup.com/ko-KR/LearnDataScience/events/fbczqqyzfbkb
 * Logistic Regression
 
 ### What we tried but did not work
-* Naive Bayes (See very_simple_classifiers.ipynb)
-* Decision Tree (See very_simple_classifiers.ipynb)
+* Naive Bayes (see very_simple_classifiers.ipynb)
+* Decision Tree (see very_simple_classifiers.ipynb)
 
 ### What we tried and work
