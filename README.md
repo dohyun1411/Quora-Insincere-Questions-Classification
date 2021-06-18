@@ -8,6 +8,7 @@ Meetup page: https://www.meetup.com/ko-KR/LearnDataScience/events/fbczqqyzfbkb
 
 ### What we have not tried
 * Attempts to handle class imblance such as upsampling, downspampling
+* Ensemble
 * Embedding concatenation
 * Tokenizer: spaCy
 * Tokenizer: NLTK
@@ -27,7 +28,7 @@ Meetup page: https://www.meetup.com/ko-KR/LearnDataScience/events/fbczqqyzfbkb
 * Decision Tree (see very_simple_classifiers.ipynb): f1-score = 0.1570
 
 ### What we tried and work
-* KFold and Ensemble
+* KFold
 * Embedding averaging
 * Tokenizer: Keras
 * Spelling correction
