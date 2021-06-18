@@ -3,22 +3,16 @@ Kaggle Competition - Quora Insincere Questions Classification
 
 Kaggle page: https://www.kaggle.com/c/quora-insincere-questions-classification
 
-Meetup page: https://www.meetup.com/ko-KR/LearnDataScience/events/fbczqqyzfbkb
-
 
 ### What we have not tried
 * Attempts to handle class imblance such as upsampling, downspampling
 * Ensemble
 * Embedding concatenation
-* Tokenizer: spaCy
-* Tokenizer: NLTK
-* Tokenizer: split (python built-in function)
 * Acronym dictionaries
 * Truncating questions
-* RNN
+* RNN (vanila)
 * GRU
 * Attention
-* MLP
 * k-NN
 * SVM
 * Logistic regression
@@ -31,6 +25,10 @@ Meetup page: https://www.meetup.com/ko-KR/LearnDataScience/events/fbczqqyzfbkb
 * KFold
 * Embedding averaging
 * Tokenizer: Keras
+* Tokenizer: spaCy
+* Tokenizer: NLTK
+* Tokenizer: split (python built-in function)
 * Spelling correction
 * LSTM
 * CNN
+* MLP
