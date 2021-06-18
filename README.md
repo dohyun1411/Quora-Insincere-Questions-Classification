@@ -22,7 +22,7 @@ Kaggle page: https://www.kaggle.com/c/quora-insincere-questions-classification
 * Decision Tree (see very_simple_classifiers.ipynb): f1-score = 0.1570
 
 ### What we tried and work
-* KFold
+* Cross validation
 * Embedding averaging
 * Tokenizer: Keras
 * Tokenizer: spaCy
