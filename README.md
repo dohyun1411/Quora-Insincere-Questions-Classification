@@ -9,7 +9,6 @@ Kaggle page: https://www.kaggle.com/c/quora-insincere-questions-classification
 * Ensemble
 * Embedding concatenation
 * Acronym dictionaries
-* Truncating questions
 * RNN (vanila)
 * GRU
 * Attention
@@ -32,3 +31,4 @@ Kaggle page: https://www.kaggle.com/c/quora-insincere-questions-classification
 * LSTM
 * CNN
 * MLP
+* Truncating questions
